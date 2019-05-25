@@ -4,7 +4,8 @@
   "description": "",
   "main": "api.fetch.js",
   "dependencies": {
-    "dotenv": "^8.0.0"
+    "dotenv": "^8.0.0",
+    "node-fetch": "^2.6.0"
   },
   "devDependencies": {},
   "scripts": {
